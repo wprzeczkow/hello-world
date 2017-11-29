@@ -1,1 +1,1 @@
-This is a test 1 of test file
+Added extra info to branch of text.txt
